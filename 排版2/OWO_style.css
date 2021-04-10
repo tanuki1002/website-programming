@@ -1,0 +1,27 @@
+p,
+ul {
+    background: -webkit-linear-gradient(90deg, #D3A4FF, #FFBFFF);
+    border: 2px solid purple;
+    padding: .5em;
+}
+
+.block,
+li {
+    background: #FFC1E0;
+    border-radius: 50px;
+    border: 2px solid #D9006C;
+    padding: .5em;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin: 0px 10px;
+}
+
+.block {
+    display: block;
+}

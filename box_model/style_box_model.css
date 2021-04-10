@@ -1,0 +1,36 @@
+#BoxMargin {
+    border: 15px #5CADAD;
+    padding: 40px;
+    width: 500px;
+    margin: 15px 0px;
+    border-style: dashed;
+    background-color: #D1E9E9;
+}
+
+#BoxBorder {
+    border: 15px #8080C0;
+    padding: 40px;
+    width: 400px;
+    margin: 15px 0px;
+    border-style: double;
+}
+
+#BoxPadding {
+    border: 15px #C07AB8;
+    padding: 40px;
+    width: 300px;
+    margin: 15px 0px;
+    border-style: inset;
+}
+
+#BoxContent {
+    border: 15px #CF9E9E;
+    padding: 40px;
+    width: 200px;
+    margin: 15px 0px;
+    border-style: ridge;
+}
+
+div {
+    display: block;
+}

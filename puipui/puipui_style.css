@@ -1,0 +1,36 @@
+            div {
+                width: 799px;
+                height: 238px;
+                background-image: url('pui.jpeg');
+                /*margin: 100px 0px 0px 100px;
+            background-color: green;*/
+            }
+            
+            img {
+                width: 100px;
+                height: 100px;
+                margin: -47px 450px 0px 10px;
+            }
+            
+            img {
+                -webkit-animation: 'rotate1' 1s linear infinite;
+                animation: 'rotate1' 1s linear infinite;
+            }
+            /*
+@-webkit-keyframes rotate1 {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}*/
+            
+            @keyframes rotate1 {
+                from {
+                    transform: rotate(0deg);
+                }
+                to {
+                    transform: rotate(360deg);
+                }
+            }
