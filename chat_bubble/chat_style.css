@@ -8,6 +8,10 @@ img {
     float: left;
 }
 
+.chatOdd1 img {
+    float: left;
+}
+
 .chatEven img {
     float: right;
 }
